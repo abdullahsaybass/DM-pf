@@ -16,29 +16,28 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am a budding Web Developer with a keen interest in both frontend and backend development. 
-                        As a fresher, I have foundational knowledge in HTML, CSS, JavaScript, and ReactJS, 
-                        which I am actively applying to personal projects and collaborations. I am currently 
-                        expanding my skills to encompass full-stack development, eager to contribute to real-world 
-                        projects and grow in this dynamic field.</p>
-                    <p>My passion for web development drives me to continuously learn and improve, ensuring that 
-                        I bring enthusiasm and dedication to each project I undertake.</p>
+                    <p>I am a budding Digital Marketer with a strong interest in SEO, SEM, content marketing, and 
+                        social media management. With 2 years of experience, I have helped improve brand visibility 
+                        and engagement. I am learning more about advanced analytics and data-driven marketing, and 
+                        I am eager to work on impactful campaigns and grow in this exciting field.</p>
+                    <p>My passion for digital marketing drives me to keep learning and improving, making sure I 
+                        bring enthusiasm and dedication to every project</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill">
-                        <p>HTML & CSS</p>
+                        <p>SEO</p>
                         <hr style={{width:'50%'}}/>
                     </div>
                     <div className="about-skill">
-                        <p>JavaScript</p>
+                        <p>SMM</p>
                         <hr style={{width:'70%'}}/>
                     </div>
                     <div className="about-skill">
-                        <p>Bootstrap </p>
+                        <p>E-mail M </p>
                         <hr style={{width:'60%'}}/>
                     </div>
                     <div className="about-skill">
-                        <p>Reactjs</p>
+                        <p>Content M</p>
                         <hr style={{width:'50%'}}/>
                     </div>
                 </div>
@@ -47,18 +46,18 @@ const About = () => {
 
         <div className="about-achievements">
             <div className="about-achievment">
-                <h1>500+</h1>
-                <p>500+ problems solved</p>
+                <h1>2+</h1>
+                <p>YEARS OF EXPERIENCE</p>
             </div>
             <hr />
              <div className="about-achievment">
-                <h1>4+</h1>
-                <p>Projects Completed</p>
+                <h1>8+</h1>
+                <p>PROJECTS COMPLETED</p>
             </div>
             <hr />
              <div className="about-achievment">
-                <h1>962+</h1>
-                <p>Points on competitive programming on CodeChef</p>
+                <h1>2+</h1>
+                <p>HAPPY CLIENTS</p>
             </div>
         </div>
     </div>

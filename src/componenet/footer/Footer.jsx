@@ -10,8 +10,9 @@ const footer = () => {
         <div className="footer-top">
           <div className="footer-top-left">
             <img src={Footer_logo} alt = "" />
-            <p>I am an aspiring web developer passionate about frontend development, equipped with training in HTML,
-               CSS, JavaScript, and ReactJS, dedicated to crafting engaging and user-friendly website.</p>
+            <p>I am an aspiring digital marketer passionate about SEO, SEM, content marketing, 
+              and social media management. With 2 years of experience, I am dedicated to creating 
+              effective and engaging marketing campaigns that enhance brand visibility and user engagement.</p>
           </div>
           <div className="footer-top-right">
             <div className="footer-email-input">
