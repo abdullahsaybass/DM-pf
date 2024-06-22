@@ -44,7 +44,7 @@ const About = () => {
             </div>
         </div>
 
-        <div className="about-achievements">
+{/*         <div className="about-achievements">
             <div className="about-achievment">
                 <h1>2+</h1>
                 <p>YEARS OF EXPERIENCE</p>
@@ -59,7 +59,7 @@ const About = () => {
                 <h1>2+</h1>
                 <p>HAPPY CLIENTS</p>
             </div>
-        </div>
+        </div> */}
     </div>
   )
 }
